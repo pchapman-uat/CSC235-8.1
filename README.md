@@ -1,4 +1,7 @@
 # CSC235-8.1
+
+[![Static Badge](https://img.shields.io/badge/Objective-ACS.6-purple)](https://pchapman-uat.github.io/Boards/ACS/#objective6)
+
 ## About
 ### Packages Used:
 - Pygame: Display window for user information
